@@ -1,3 +1,4 @@
+print("Escriu dos nombres per comprar-los")
 Nombre1 = input()
 Nombre2 = input()
 
